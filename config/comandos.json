@@ -1,0 +1,6 @@
+{
+  "connectioninfo": "termux-wifi-connectioninfo",
+  "scaninfo": "termux-wifi-scaninfo",
+  "wifi-on": "termux-wifi-enable true",
+  "wifi-off": "termux-wifi-enable false"
+}
